@@ -10,8 +10,10 @@ const CardDeal = () => (
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        We've been researching and comparing credit cards for over 15 years. You
+        can easily compare more than 250 Philippine credit cards using our free
+        tools. When you find one that suits, we'll take you securely to the
+        bank's website.
       </p>
 
       <Button styles={`mt-10`} />
